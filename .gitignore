@@ -1,0 +1,4 @@
+.venv/*
+build/*
+dist/*
+db_dump_tool.spec
